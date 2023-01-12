@@ -1,5 +1,2 @@
 # ACD-2023.GITHUB.IO
-
-```math
-LIU-JUN-YANG-SB
-```
+![LIB-SHS](LIB-SHS.svg)
